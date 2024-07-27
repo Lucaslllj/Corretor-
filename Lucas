@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucas Iwatsuki - Portfólio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            margin: 0;
+            padding: 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+        }
+        footer {
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lucas Iwatsuki</h1>
+        <nav>
+            <a href="#sobre">Sobre mim</a>
+            <a href="#experiencia">Experiência</a>
+            <a href="#projetos">Projetos</a>
+            <a href="#habilidades">Habilidades</a>
+            <a href="#testemunhos">Testemunhos</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <div class="container">
+            <h2>Sobre mim</h2>
+            <p>Olá, eu sou Lucas Iwatsuki. Sou vendedor de casas no Japão e trabalho na Home Station, especializado na região de Mie. Tenho uma paixão por ajudar clientes a encontrar seus lares ideais.</p>
+        </div>
+    </section>
+
+    <section id="experiencia">
+        <div class="container">
+            <h2>Experiência profissional</h2>
+            <p>Trabalhei em diversos projetos de venda e aquisição de imóveis, desenvolvendo habilidades em negociação e atendimento ao cliente. Minha experiência inclui...</p>
+        </div>
+    </section>
+
+    <section id="projetos">
+        <div class="container">
+            <h2>Projetos</h2>
+            <p>Aqui você pode destacar alguns dos projetos mais significativos em que trabalhou. Inclua descrições e resultados alcançados.</p>
+        </div>
+    </section>
+
+    <section id="habilidades">
+        <div class="container">
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Negociação</li>
+                <li>Atendimento ao cliente</li>
+                <li>Conhecimento do mercado imobiliário</li>
+                <!-- Adicione outras habilidades relevantes aqui -->
+            </ul>
+        </div>
+    </section>
+
+    <section id="testemunhos">
+        <div class="container">
+            <h2>Testemunhos de clientes</h2>
+            <p>“Lucas foi fundamental na compra da nossa casa. Seu conhecimento e dedicação foram impressionantes.” - Cliente satisfeito</p>
+            <!-- Adicione outros testemunhos aqui -->
+        </div>
+    </section>
+
+    <section id="contato">
+        <div class="container">
+            <h2>Contato</h2>
+            <p>Para entrar em contato comigo, você pode me ligar pelo telefone: 080-4307-2354 ou enviar um e-mail para <a href="mailto:seuemail@example.com">seuemail@example.com</a>.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Lucas Iwatsuki. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
